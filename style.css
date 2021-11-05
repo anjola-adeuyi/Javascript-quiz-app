@@ -50,7 +50,7 @@ body {
  
 #btn0:hover, #btn1:hover, #btn2:hover, #btn3:hover {
     cursor: pointer;
-    background-color: #01BBFF;
+    background-color: #047fac;
 }
  
 #btn0:focus, #btn1:focus, #btn2:focus, #btn3:focus {
